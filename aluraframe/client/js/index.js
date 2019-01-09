@@ -26,7 +26,5 @@ document.querySelector('.form').addEventListener('submit', function(event) {
 
     tbody.appendChild(tr);
 
-    alert("vai malandra!");
-
 
 });
